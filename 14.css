@@ -1,0 +1,39 @@
+.conteiner{
+    display: flex;
+
+    justify-content: center ;
+    flex-wrap: center;
+}
+
+img{
+    width: 350px;
+}
+
+p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  
+}
+
+
+body{
+    background-image: url(https://s2.best-wallpaper.net/wallpaper/3840x2160/1707/Ukraine-Carpathians-forest-mountains-fog-clouds-sun-morning_3840x2160.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}    
+
+
+footer{
+    padding-left: 100px;
+    height: 150px;
+    width: 100%;
+    border-radius: 50px;
+    border-width: 5px;
+    border-color: goldenrod;
+    background-color: rgb(14, 241, 63);
+} 
+
